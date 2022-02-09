@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+> This project analyze the reasons for loan defaulters and make the recommendations to minimize the revenue loss due to loan defaulters.  This uses the Exploratory Data Analysis 
+> to achieve this
 
 
 ## Table of Contents
