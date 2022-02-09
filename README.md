@@ -7,6 +7,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Acknowledgements](#Acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -36,6 +37,8 @@
 ## Contact
 Created by [@ravinder.yeddla@gmail.com] - feel free to contact me!
 
+## Acknowledgements
+The information and guidance required for this project is given by Upgrad faculty.
 
 <!-- Optional -->
 <!-- ## License -->
